@@ -17,7 +17,7 @@
 			margin: 200px auto 0;
 		}
 		.title {
-			font-size: 22pt;
+			font-size: 18px;
 		}
 		</style>
 	</head>
